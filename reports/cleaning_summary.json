@@ -1,0 +1,12 @@
+{
+    "rows_before_cleaning": 525461,
+    "exact_duplicate_rows_removed": 6865,
+    "rows_after_exact_deduplication": 518596,
+    "rows_quarantined": 3,
+    "rows_in_cleaned_transactions": 518593,
+    "rows_missing_customer_id_in_cleaned_data": 107830,
+    "cancellation_rows": 10182,
+    "negative_quantity_rows": 12302,
+    "zero_price_rows": 3681,
+    "negative_price_rows_in_quarantine": 3
+}

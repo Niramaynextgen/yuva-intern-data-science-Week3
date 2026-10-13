@@ -1,0 +1,4 @@
+order_id,product_id,product_description,quantity,transaction_datetime,unit_price,customer_id,country,missing_customer_id,invalid_datetime,invalid_quantity,invalid_unit_price,is_cancellation,is_return_or_negative_quantity,is_zero_price,is_negative_price,line_value,quarantine_reason
+A506401,B,Adjust bad debt,1,2010-04-29 13:36:00,-53594.36,,United Kingdom,True,False,False,False,False,False,False,True,-53594.36,Missing required field or negative price
+A516228,B,Adjust bad debt,1,2010-07-19 11:24:00,-44031.79,,United Kingdom,True,False,False,False,False,False,False,True,-44031.79,Missing required field or negative price
+A528059,B,Adjust bad debt,1,2010-10-20 12:04:00,-38925.87,,United Kingdom,True,False,False,False,False,False,False,True,-38925.87,Missing required field or negative price
